@@ -1,0 +1,9 @@
+def print_names(**kwargs):
+    print(kwargs)
+    print(kwargs["phone"])
+print_names(name="deborah",address="lagos",phone=9035560787)       
+
+def hello_world(*args,**kwargs):
+    print(args)
+    print(kwargs)
+hello_world(50,67,80,"grace",name="debbie",country="nigeria")    

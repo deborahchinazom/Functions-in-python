@@ -1,0 +1,21 @@
+what is function
+create function
+call function
+function with return
+create function with different argument
+create function with default argument
+
+funtions are block of code or set of statement which will perform set of activity/task
+it creates modularity, reusability, readability of program
+we can parameterize the function
+function can return values using return keyboard
+Without argument:
+def function_named(param1,param2):
+statement 1
+statement 2
+WITH argument:
+def function_(param1,param2="default)
+statement1
+statement2
+
+ARBITARY AUG

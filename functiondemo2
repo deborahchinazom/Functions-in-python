@@ -1,0 +1,6 @@
+def sum(num1,num2):
+    result=num1+num2
+    #print("result is", result)
+    return result
+newresult=sum(65,50)
+print("value is", newresult)

@@ -1,0 +1,7 @@
+def greeting(fname,lname,marks):
+    print("welcome "+fname +" "+lname + " "+str(marks))
+
+
+#greeting("deborah","evogor")
+greeting(fname="deborah", lname="evogor",marks=100)  
+greeting(lname="evogor", fname="deborah",marks=100) 

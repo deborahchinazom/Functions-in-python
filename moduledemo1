@@ -1,0 +1,7 @@
+import calendar
+import os
+import math
+result=calendar.month(2024,3)
+#print(os.getcwd())
+#print(result)
+print(math.sqrt(100))

@@ -1,0 +1,30 @@
+#def print_name(name1,name2,name3):
+      #print(name1,name2,name3)
+#print_name("deborah","esther","grace") 
+
+
+
+def print_name(*args):
+ for name in args : 
+    print(name)
+print_name("deborah","esther","grace","chioma","ify")    
+
+def sum_of_all_numbers(*args):
+  print(sum(args))
+sum_of_all_numbers(10,56,50,60)
+
+
+def get_number(*args):
+  print(min(args))
+  print(max(args))
+get_number(60,70,12,3,900)
+
+
+
+
+
+
+
+
+
+
